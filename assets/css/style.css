@@ -70,7 +70,7 @@ body {
 }
 
 /* Login box style */
-.login-box {
+.form {
     position: relative;
     display: flex;
     flex-direction: column;
